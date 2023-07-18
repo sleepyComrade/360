@@ -103,7 +103,7 @@ const textContent = {
   niches: {
     title: {
       en: "niches we work with",
-      ru: "ПРОФЕССИОНАЛЬНЫЕ НАПРВЛЕНИЯ",
+      ru: "ПРОФЕССИОНАЛЬНЫЕ НАПРАВЛЕНИЯ",
       sr: "INDUSTRIJE SA KOJIMA SARADJUJEMO",
     },
     yacht: {
@@ -161,7 +161,7 @@ const textContent = {
         sr: "MUZEJI I GALERIJE",
       },
       description: {
-        en: "PanoRound is dedicated to preserving and promoting art and culture through immersive 360  of museums and galleries. We capture the intricate details of exhibitions, artwork, and installations, allowing virtual visitors to explore the space and admire the artwork from every angle.",
+        en: "PanoRound is dedicated to preserving and promoting art and culture through immersive 360 of museums and galleries. We capture the intricate details of exhibitions, artwork, and installations, allowing virtual visitors to explore the space and admire the artwork from every angle.",
         ru: "PanoRound выступает за  сохранение и продвижение искусства и культуры через  создание 360 обзоров музеев и галерей. Мы готовы запечатлеть  сложные детали выставок, произведений искусства и инсталляций, позволяя виртуальным посетителям исследовать пространство и восхищаться произведениями искусства со всех сторон.",
         sr: "PanoRound se posvećuje očuvanju i promociji umetnosti i kulture putem uranjajućih 360 tura muzeja i galerija. Snimamo detalje izložbi, umetničkih dela i instalacija, omogućavajući virtuelnim posetiocima da istraže prostor i dive se umetnosti iz svakog ugla.",
       },
@@ -304,7 +304,7 @@ const textContent = {
       },
       description: {
         en: "We cover the whole of the Montenegro regions.\nFor pricing, orders and suggestions please use our form, phone number or email to contact us. Include as much information about your request, describing location and your goals for the 360 virtual tour.",
-        ru: "Мы охватываем все регионы Черногории. Для получения информации о ценах, заказах и предложениях, пожалуйста, используйте нашу форму, номер телефона или отправьте нам E-mail для связи. Укажите как можно больше информации о вашем запросе, включая местоположение и описание объекта для 360 тура.",
+        ru: "Мы охватываем все регионы Черногории.\n Для получения информации о ценах, заказах и предложениях, пожалуйста, используйте нашу форму, номер телефона или отправьте нам E-mail для связи. Укажите как можно больше информации о вашем запросе, включая местоположение и описание объекта для 360 тура.",
         sr: "Pokrivamo sve regione Crne Gore.\nZa cene, narudžbe i sugestije, molimo koristite naš obrazac, telefonski broj ili e-mail kako biste nas kontaktirali. Uključite što više informacija o vašem zahtevu, opisujući lokaciju i ciljeve za 360 virtualnu turu."
       }
     }
