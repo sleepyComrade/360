@@ -27,13 +27,11 @@
         "sr": "Kontakt"
       }
     ],
-    "langs": [
-      {
+    "langs": {
         "en": "english",
         "sr": "srpski",
         "ru": "russian"
-      }
-    ]
+    }
   },
   "cover": {
     "description": {
