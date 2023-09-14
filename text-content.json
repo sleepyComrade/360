@@ -1,25 +1,38 @@
 {
   "header": {
-    "home": {
-      "en": "Home",
-      "ru": "Главная",
-      "sr": "Home"
-    },
-    "about": {
-      "en": "About",
-      "ru": "О нас",
-      "sr": "O nama"
-    },
-    "solutions": {
-      "en": "360° Tours",
-      "ru": "360° Туры",
-      "sr": "360° Ture"
-    },
-    "contact": {
-      "en": "Contact",
-      "ru": "Контакты",
-      "sr": "Kontakt"
-    }
+    "nav": [
+      {
+        "en": "Home",
+        "ru": "Главная",
+        "sr": "Home"
+      },
+      {
+        "en": "About",
+        "ru": "О нас",
+        "sr": "O nama"
+      },
+      {
+        "en": "360° Tours",
+        "ru": "360° Туры",
+        "sr": "360° Ture"
+      },
+      {
+        "en": "Contact",
+        "ru": "Контакты",
+        "sr": "Kontakt"
+      }
+    ],
+    "langs": [
+      {
+        "en": "english"
+      },
+      {
+        "sr": "srpski"
+      },
+      {
+        "ru": "russian"
+      }
+    ]
   },
   "cover": {
     "description": {
