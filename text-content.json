@@ -29,12 +29,8 @@
     ],
     "langs": [
       {
-        "en": "english"
-      },
-      {
-        "sr": "srpski"
-      },
-      {
+        "en": "english",
+        "sr": "srpski",
         "ru": "russian"
       }
     ]
