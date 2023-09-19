@@ -314,10 +314,15 @@
         "ru": "Свяжитесь с нами",
         "sr": "Kontaktirajte nas"
       },
-      "description": {
-        "en": "We cover the whole of the Montenegro regions.\nFor pricing, orders and suggestions please use our form, phone number or email to contact us. Include as much information about your request, describing location and your goals for the 360 virtual tour.",
-        "ru": "Мы охватываем все регионы Черногории.\n Для получения информации о ценах, заказах и предложениях, пожалуйста, используйте нашу форму, номер телефона или отправьте нам E-mail для связи. Укажите как можно больше информации о вашем запросе, включая местоположение и описание объекта для 360 тура.",
-        "sr": "Pokrivamo sve regione Crne Gore.\nZa cene, narudžbe i sugestije, molimo koristite naš obrazac, telefonski broj ili e-mail kako biste nas kontaktirali. Uključite što više informacija o vašem zahtevu, opisujući lokaciju i ciljeve za 360 virtualnu turu."
+      "description1": {
+        "en": "We cover the whole of the Montenegro regions.",
+        "ru": "Мы охватываем все регионы Черногории.",
+        "sr": "Pokrivamo sve regione Crne Gore."
+      },
+      "description2": {
+        "en": "For pricing, orders and suggestions please use our form, phone number or email to contact us. Include as much information about your request, describing location and your goals for the 360 virtual tour.",
+        "ru": "Для получения информации о ценах, заказах и предложениях, пожалуйста, используйте нашу форму, номер телефона или отправьте нам E-mail для связи. Укажите как можно больше информации о вашем запросе, включая местоположение и описание объекта для 360 тура.",
+        "sr": "Za cene, narudžbe i sugestije, molimo koristite naš obrazac, telefonski broj ili e-mail kako biste nas kontaktirali. Uključite što više informacija o vašem zahtevu, opisujući lokaciju i ciljeve za 360 virtualnu turu."
       }
     }
   }
