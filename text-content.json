@@ -326,5 +326,64 @@
       },
       "links": ["https://www.facebook.com/profile.php?id=100094153148271&sk=about", "https://www.instagram.com/panoround/", "https://t.me/PANOROUND_BOT", "viber://pa?chatURI=panoround"]
     }
-  }
+  },
+  "gallery": [
+    {
+      "src": "cap-dom",
+      "niche": {
+        "en": "hospitality",
+        "ru": "гостеприимство",
+        "sr": "gostoprimstvo"
+      },
+      "location": {
+        "en": "Prcanj",
+        "ru": "Прчань",
+        "sr": "Prčanj"
+      },
+      "title": {
+        "en": "Captain's house",
+        "ru": "Дом Капитана",
+        "sr": "Kapetanova kuća"
+      },
+      "id": "1"
+    },
+    {
+      "src": "church",
+      "niche": {
+        "en": "public",
+        "ru": "публичное",
+        "sr": "javnost"
+      },
+      "location": {
+        "en": "Herceg Novi",
+        "ru": "Херцег Нови",
+        "sr": "Herceg Novi"
+      },
+      "title": {
+        "en": "Saint Michael Archangel Church",
+        "ru": "Церковь Святого Архангела Михаила",
+        "sr": "Crkva Svetog Arhangela Mihaila"
+      },
+      "id": "2"
+    },
+    {
+      "src": "sangria",
+      "niche": {
+        "en": "hospitality",
+        "ru": "гостеприимство",
+        "sr": "gostoprimstvo"
+      },
+      "location": {
+        "en": "Herceg Novi",
+        "ru": "Херцег Нови",
+        "sr": "Herceg Novi"
+      },
+      "title": {
+        "en": "Sangria",
+        "ru": "Сангрия",
+        "sr": "Sangrija"
+      },
+      "id": "3"
+    }
+  ]
 }
