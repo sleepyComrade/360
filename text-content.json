@@ -331,6 +331,7 @@
     "projects": [
       {
         "src": "cap-dom",
+        "matterport": "Z8UYdMnWWbD",
         "niche": {
           "en": "hospitality",
           "ru": "гостеприимство",
@@ -365,6 +366,7 @@
       },
       {
         "src": "church",
+        "matterport": "xNVJBB5RnWv",
         "niche": {
           "en": "public",
           "ru": "публичное",
@@ -399,6 +401,7 @@
       },
       {
         "src": "sangria",
+        "matterport": "KhVQ2BrDcUJ",
         "niche": {
           "en": "hospitality",
           "ru": "гостеприимство",
