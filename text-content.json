@@ -327,63 +327,127 @@
       "links": ["https://www.facebook.com/profile.php?id=100094153148271&sk=about", "https://www.instagram.com/panoround/", "https://t.me/PANOROUND_BOT", "viber://pa?chatURI=panoround"]
     }
   },
-  "gallery": [
-    {
-      "src": "cap-dom",
-      "niche": {
-        "en": "hospitality",
-        "ru": "гостеприимство",
-        "sr": "gostoprimstvo"
+  "gallery": {
+    "projects": [
+      {
+        "src": "cap-dom",
+        "niche": {
+          "en": "hospitality",
+          "ru": "гостеприимство",
+          "sr": "gostoprimstvo"
+        },
+        "location": {
+          "en": "Prcanj",
+          "ru": "Прчань",
+          "sr": "Prčanj"
+        },
+        "title": {
+          "en": "Captain's house",
+          "ru": "Дом Капитана",
+          "sr": "Kapetanova kuća"
+        },
+        "coverTitle": {
+          "en": "Historic building in Prcanj",
+          "ru": "Историческое здание в Прчани",
+          "sr": "Povijesna zgrada u Prčanju"
+        },
+        "coverInfo": {
+          "en": "Invite your guests to stay",
+          "ru": "Пригласите гостей остаться",
+          "sr": "Pozovite svoje goste da ostanu"
+        },
+        "info": {
+          "en": "Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay. Invite your guests to stay.",
+          "ru": "Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться. Пригласите гостей остаться.",
+          "sr": "Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu. Pozovite svoje goste da ostanu."
+        },
+        "id": "1"
       },
-      "location": {
-        "en": "Prcanj",
-        "ru": "Прчань",
-        "sr": "Prčanj"
+      {
+        "src": "church",
+        "niche": {
+          "en": "public",
+          "ru": "публичное",
+          "sr": "javnost"
+        },
+        "location": {
+          "en": "Herceg Novi",
+          "ru": "Херцег Нови",
+          "sr": "Herceg Novi"
+        },
+        "title": {
+          "en": "Saint Michael Archangel Church",
+          "ru": "Церковь Святого Архангела Михаила",
+          "sr": "Crkva Svetog Arhangela Mihaila"
+        },
+        "coverTitle": {
+          "en": "Belavista Square",
+          "ru": "Площадь Белависта",
+          "sr": "Trg Belavista"
+        },
+        "coverInfo": {
+          "en": "Walk around downtown Herceg Novi",
+          "ru": "Прогуляйтесь по центру Герцег-Нови",
+          "sr": "Šetnja centrom Herceg Novog"
+        },
+        "info": {
+          "en": "Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi. Walk around downtown Herceg Novi.",
+          "ru": "Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови. Прогуляйтесь по центру Герцег-Нови.",
+          "sr": "Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog. Šetnja centrom Herceg Novog."
+        },
+        "id": "2"
       },
-      "title": {
-        "en": "Captain's house",
-        "ru": "Дом Капитана",
-        "sr": "Kapetanova kuća"
+      {
+        "src": "sangria",
+        "niche": {
+          "en": "hospitality",
+          "ru": "гостеприимство",
+          "sr": "gostoprimstvo"
+        },
+        "location": {
+          "en": "Herceg Novi",
+          "ru": "Херцег Нови",
+          "sr": "Herceg Novi"
+        },
+        "title": {
+          "en": "Sangria",
+          "ru": "Сангрия",
+          "sr": "Sangrija"
+        },
+        "coverTitle": {
+          "en": "Coctail bar in Herceg Novi",
+          "ru": "Коктейль-бар в Герцег-Нови",
+          "sr": "Koktel bar u Herceg Novi"
+        },
+        "coverInfo": {
+          "en": "Enjoy refreshing cocktails on the city's waterfront",
+          "ru": "Насладитесь освежающими коктейлями на набережной города",
+          "sr": "Uživajte u osvježavajućim koktelima na gradskoj rivi"
+        },
+        "info": {
+          "en": "Enjoy refreshing cocktails on the city's waterfront. Enjoy refreshing cocktails on the city's waterfront. Enjoy refreshing cocktails on the city's waterfront. Enjoy refreshing cocktails on the city's waterfront. Enjoy refreshing cocktails on the city's waterfront. Enjoy refreshing cocktails on the city's waterfront.",
+          "ru": "Насладитесь освежающими коктейлями на набережной города. Насладитесь освежающими коктейлями на набережной города. Насладитесь освежающими коктейлями на набережной города. Насладитесь освежающими коктейлями на набережной города. Насладитесь освежающими коктейлями на набережной города. Насладитесь освежающими коктейлями на набережной города.",
+          "sr": "Uživajte u osvježavajućim koktelima na gradskoj rivi. Uživajte u osvježavajućim koktelima na gradskoj rivi. Uživajte u osvježavajućim koktelima na gradskoj rivi. Uživajte u osvježavajućim koktelima na gradskoj rivi. Uživajte u osvježavajućim koktelima na gradskoj rivi. Uživajte u osvježavajućim koktelima na gradskoj rivi."
+        },
+        "id": "3"
+      }
+    ],
+    "buttons": {
+      "all": {
+        "en": "all",
+        "ru": "все",
+        "sr": "svi"
       },
-      "id": "1"
-    },
-    {
-      "src": "church",
-      "niche": {
-        "en": "public",
-        "ru": "публичное",
-        "sr": "javnost"
+      "explore": {
+        "en": "explore project",
+        "ru": "изучить проект",
+        "sr": "istražiti projekt"
       },
-      "location": {
-        "en": "Herceg Novi",
-        "ru": "Херцег Нови",
-        "sr": "Herceg Novi"
-      },
-      "title": {
-        "en": "Saint Michael Archangel Church",
-        "ru": "Церковь Святого Архангела Михаила",
-        "sr": "Crkva Svetog Arhangela Mihaila"
-      },
-      "id": "2"
-    },
-    {
-      "src": "sangria",
-      "niche": {
-        "en": "hospitality",
-        "ru": "гостеприимство",
-        "sr": "gostoprimstvo"
-      },
-      "location": {
-        "en": "Herceg Novi",
-        "ru": "Херцег Нови",
-        "sr": "Herceg Novi"
-      },
-      "title": {
-        "en": "Sangria",
-        "ru": "Сангрия",
-        "sr": "Sangrija"
-      },
-      "id": "3"
+      "back": {
+        "en": "back to gallery",
+        "ru": "назад в галерею",
+        "sr": "natrag u galeriju"
+      }
     }
-  ]
+  }
 }
